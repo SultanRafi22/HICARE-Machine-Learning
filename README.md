@@ -1,4 +1,5 @@
 # HICARE Machine Learning Model
+### Lettuce Disease Classification using Convolutional Neural Network
 ---
 
 ## List of Machine Learning Path
@@ -8,8 +9,8 @@
 ---
 
 ## Dataset
-[Augmented Lettuce Disease](https://drive.google.com/drive/folders/1EJO0Q3z1jrnMbjcTOJJEnOhpfdTub1E5?usp=sharing)
-[Original Dataset](https://www.kaggle.com/datasets/ashishjstar/lettuce-diseases)
+* [Augmented Lettuce Disease](https://drive.google.com/drive/folders/1EJO0Q3z1jrnMbjcTOJJEnOhpfdTub1E5?usp=sharing)
+* [Original Dataset](https://www.kaggle.com/datasets/ashishjstar/lettuce-diseases)
 ---
 
 ### Technology / library we used
